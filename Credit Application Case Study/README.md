@@ -1,4 +1,4 @@
-# Comprehensive Machine Learning Pipeline Project 🚀
+# Comprehensive Credit Card Fraud Detection Machine Learning Pipeline Project 🚀
 
 ## Project Overview 🌟
 This repository contains a comprehensive machine learning pipeline designed for data processing, feature engineering, model training, and prediction tasks. The project demonstrates an effective blend of techniques for handling imbalanced data, feature selection, dimensionality reduction, and robust predictive modeling.
