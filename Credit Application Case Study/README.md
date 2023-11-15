@@ -20,7 +20,12 @@ The project utilizes the Credit Card dataset available on Kaggle. You can access
 - Detection and handling of data imbalance 📉
 - PCA applied to FLAG_DOCUMENT features, achieving 71.1% explained variance 💡
 - Model evaluation metrics before and after oversampling 📝
+  - **Before Oversampling**: 
+    - Accuracy: 91.87%, Precision: 41.09%, Recall: 2.28%, F1 Score: 4.33%
+  - **After Oversampling**: 
+    - Accuracy: 95.6%, Precision: 99.74%, Recall: 91.47%, F1 Score: 95.42%
 - Predictive analysis with the top 20 features 🌐
+- Model Success: Demonstrated high accuracy and precision in predictions 🏆
 
 ## Contents 🗂️
 - `data_preprocessing.py`: Script for data preprocessing tasks 🛠️
